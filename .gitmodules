@@ -1,0 +1,30 @@
+[submodule "loghme"]
+	path = loghme
+	url = https://github.com/tahaShm/loghme.git
+[submodule "loghme2"]
+	path = loghme2
+	url = https://github.com/tahaShm/loghme2.git
+[submodule "loghme3"]
+	path = loghme3
+	url = https://github.com/tahaShm/loghme3.git
+[submodule "loghme4"]
+	path = loghme4
+	url = https://github.com/tahaShm/loghme4.git
+[submodule "loghme5-frontend"]
+	path = loghme5-frontend
+	url = https://github.com/tahaShm/loghme5-frontend.git
+[submodule "loghme5-backend"]
+	path = loghme5-backend
+	url = https://github.com/tahaShm/loghme5-backend.git
+[submodule "loghme6-backend"]
+	path = loghme6-backend
+	url = https://github.com/tahaShm/loghme6-backend.git
+[submodule "loghme6-frontend"]
+	path = loghme6-frontend
+	url = https://github.com/tahaShm/loghme6-frontend.git
+[submodule "loghme7-8-backend"]
+	path = loghme7-8-backend
+	url = https://github.com/tahaShm/loghme7-8-backend.git
+[submodule "loghme7-8-frontend"]
+	path = loghme7-8-frontend
+	url = https://github.com/tahaShm/loghme7-8-frontend.git
